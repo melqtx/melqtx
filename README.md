@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 >um- hey</h1>
 
-<!--
-**melqtx/melqtx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<h4 >$ whoami </h4>
+<p >
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <samp>
+    im mel, i live in india.br>
+    
+    :school: CS/ML Student [Soon]<br>
+    :email:	melqtx@outlook.com <br>
+    
+    
+    𝕏 X:  <a href="https://X.com/melqtx/">X</a> <br>
+    🌏 XYZ:  <a href="https://melqtx.github.io"></a> <br><br><br>
+    </samp>
+</p>  
