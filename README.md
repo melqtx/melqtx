@@ -29,9 +29,3 @@
     ✍️ Blogs:  <a href="https://melqtx.tech">melqtx.tech</a> <br><br><br>
     </samp>
 </p>  
-<div align="center">
-  <img src="https://github.com/melqtx/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-  <img src="https://github.com/melqtx/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-  <img src="https://github.com/melqtx/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
-  <img src="https://github.com/melqtx/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
-</div>
