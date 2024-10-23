@@ -29,4 +29,3 @@
     ✍️ Blogs:  <a href="https://melqtx.tech">melqtx.tech</a> <br><br><br>
     </samp>
 </p>  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melqtx)](https://github.com/anuraghazra/github-readme-stats)
