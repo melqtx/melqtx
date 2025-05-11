@@ -1,31 +1,12 @@
- sup, im mel
+# Experience
+Supreme Overlord of Chaotic Media Flux, crafting heuristic vibes and workplace zen at the Ambiguity Nexus, powered by Arch Linux and Vim wizardry. Ex-Guru of Technical Trivia at the Global Dependency Vortex, scripting in Emacs. Prime Lead at CorpCorp.
 
-<div style="text-align: center;">
-<pre style="display: inline-block; text-align: left;">
-               ,----------------,              ,---------,
-          ,-----------------------,          ,"        ,"|
-        ,"                      ,"|        ,"        ,"  |
-       +-----------------------+  |      ,"        ,"    |
-       |  .-----------------.  |  |     +---------+      |
-       |  |                 |  |  |     | -==----'|      |
-       |  |  melqtx:~$      |  |  |     |         |      |
-       |  |                 |  |  |/----|`---=    |      |
-       |  |                 |  |  |   ,/|==== ooo |      ;
-       |  |                 |  |  |  // |(((( [33]|    ,"
-       |  `-----------------'  |," .;'| |((((     |  ,"
-       +-----------------------+  ;;  | |         |,"
-          /_)______________(_/  //'   | +---------+
-     ___________________________/___  `,
-    /  oooooooooooooooo  .o.  oooo /,   \,"-----------
-   / ==ooooooooooooooo==.o.  ooo= //   ,`\--{)B     ,"
-  /_==__==========__==_ooo__ooo=_/'   /___________,"
-  `-----------------------------'
-</pre>
-</div>
+# Currently Learning
+- Industrial Bewilderment Engineering
+- Force Push Frenzy (Arch-optimized)
+- Cubic Abstraction Overload (Vim-driven)
+- Liquification Arts
+- Redundant Analytics (Emacs-fueled)
+- Rats (cheese-chomping gray bois)
 
-<samp>
-    :school: freshmen cse <em></em><br>
-    :email:	melqtx@proton.me <br>
-    ✍️ Blogs:  <a href="https://melqtx.tech">melqtx.tech</a> <br><br><br>
-    </samp>
-</p>  
+If 'nonsense' trends on GitHub, I’ll conquer Arch, Vim, and Emacs overnight.
