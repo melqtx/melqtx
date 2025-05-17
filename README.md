@@ -23,9 +23,3 @@
 </pre>
 </div>
 
-<samp>
-    :school: freshmen cse <em></em><br>
-    :email:	melqtx@proton.me <br>
-    ✍️ Blogs:  <a href="https://melqtx.tech">melqtx.tech</a> <br><br><br>
-    </samp>
-</p>  
